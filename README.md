@@ -3,7 +3,7 @@
 - ⚖ Im a utilitarian.
 - 📚 I’m currently taking classes from WGU in cyber security.
 
-favBooks = (HPMOR, and LOTR, and WOT)
+favBooks = (HPMOR, LOTR, and WOT)
 
 btw, I use arch
 <!---
